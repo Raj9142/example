@@ -1,0 +1,14 @@
+.div1 {
+    height: 100px;
+    width: 60px;
+    border: solid purple;
+    margin: 50px;
+    background-color: purple;
+    /* transform: translate(100px, 200px);
+    /* transform: rotate(45deg); */
+    /* transform: scale(2.3);
+    transform: scale(3.5); */
+    /* transform: skewX(145deg); */
+    transform: skew(45deg,55deg);
+
+} 
